@@ -1,6 +1,6 @@
 [package]
 name = "sql_aware"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["André de Moraes <deco.moraes@icloud.com>"]
 edition = "2021"
 description = "A Rust library providing a proc macro to make sql queries."
@@ -20,6 +20,7 @@ syn = { version = "1.0", features = ["full"] }
 quote = "1.0"
 proc-macro2 = "1.0.86"
 sqlparser = "0.51.0"
+regex = "1.11.0"
 
 [dev-dependencies]
 sql_aware = { path = "." }

@@ -119,7 +119,3 @@ The macro also ensures that SQL strings are properly formatted for your database
 ## Contribution
 
 We welcome contributions! If you'd like to add new features, improve the library, or report issues, feel free to open a pull request or issue on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
